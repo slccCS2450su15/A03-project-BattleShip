@@ -20,3 +20,5 @@ purpose a diagramming program like for example Visio works just fine.
 Keep in mind that a schedule only has value if it is used on a regular basis. Prefer clarity over excessive
 detail
 5. Create a staff allocation chart similar to Figure 23.7 in the book
+
+testing commit change tracking (this line should be green)
